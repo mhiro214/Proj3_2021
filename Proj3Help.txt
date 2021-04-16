@@ -15,3 +15,5 @@ Parameters:
     - List results in descending (top) or ascending (bottom) order.
 - <integer>, default=10
     - List <limit> matches.
+- barplot
+    - if provided, a graph will be shown instead of printing the results 
